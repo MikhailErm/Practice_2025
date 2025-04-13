@@ -6,6 +6,28 @@
     <description>Recent content in Главная on Помощь людям с ОВЗ: сайт для оказания экстренной помощи (I курс)</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 14 Apr 2025 00:04:07 +0300</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Успешно провели первую защиту проекта</title>
+      <link>//localhost:1313/journal/post_tretiy/</link>
+      <pubDate>Mon, 14 Apr 2025 00:04:07 +0300</pubDate>
+      <guid>//localhost:1313/journal/post_tretiy/</guid>
+      <description>&lt;h2 id=&#34;защита-проекта&#34;&gt;Защита проекта&lt;/h2&gt;&#xA;&lt;h3 id=&#34;2025-03-20&#34;&gt;2025-03-20&lt;/h3&gt;&#xA;&lt;p&gt;Была проведена первая защита проекта на которой наша команда представила проект и ответила на все вопросы комиссии.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Хронология работ</title>
+      <link>//localhost:1313/journal/post_vtoroy/</link>
+      <pubDate>Mon, 14 Apr 2025 00:04:02 +0300</pubDate>
+      <guid>//localhost:1313/journal/post_vtoroy/</guid>
+      <description>&lt;h3 id=&#34;2025-03-03-завершено&#34;&gt;2025-03-03 (Завершено)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Написание политики конфиденциальнсти&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2025-03-10-завершено&#34;&gt;2025-03-10 (Завершено)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Запущена бета-версия сайта на домене &lt;a href=&#34;https://help-nearby.netlify.app/#any&#34;&gt;https://help-nearby.netlify.app/#any&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2025-03-18-не-завершено&#34;&gt;2025-03-18 (Не завершено)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Переговоры с МосВолонтер&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2025-03-25-не-завершено&#34;&gt;2025-03-25 (Не завершено)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Тестирование системы волонтерами&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Текущий прогресс</title>
+      <link>//localhost:1313/journal/post_perviy/</link>
+      <pubDate>Sun, 13 Apr 2025 23:58:39 +0300</pubDate>
+      <guid>//localhost:1313/journal/post_perviy/</guid>
+      <description>&lt;h3 id=&#34;-завершено&#34;&gt;✅ Завершено:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Разработка веб-сайта&lt;/li&gt;&#xA;&lt;li&gt;Внедрение базы данных пользователей&lt;/li&gt;&#xA;&lt;li&gt;Политика конфиденциальности&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-в-процессе&#34;&gt;🔄 В процессе:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Переговоры с &amp;ldquo;МосВолонтер&amp;rdquo;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>
