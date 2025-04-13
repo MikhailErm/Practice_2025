@@ -2,6 +2,6 @@
 title: "Ресурсы"
 ---
 ### Полезные ссылки:
-- [Сайт партнёра](https://example.com)
+- [Сайт наших партнёров](https://mosvolonter.ru/)
 - [Документация Hugo](https://gohugo.io)
-- [Статья о проекте](https://example.com/article)
+- [Статья о людях с овз](https://dszn.ru/press-center/news/11606)
