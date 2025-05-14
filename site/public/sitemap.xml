@@ -23,9 +23,10 @@
     <loc>//localhost:1313/journal/post_perviy/</loc>
     <lastmod>2025-04-13T23:58:39+03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
-  </url><url>
     <loc>//localhost:1313/posts/</loc>
+    <lastmod>2025-04-13T17:06:32+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
   </url><url>

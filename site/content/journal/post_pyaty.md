@@ -5,11 +5,11 @@ title = 'Вариативное задание'
 +++
 ## Цель работы
 
-Целью работы является систематизация и анализ современных методик тестирования защищенности веб-приложений.
+Целью работы является анализ методик тестирования защищенности веб-приложений.
 
 ---
-## Ссылка на скачку основного файла
-[Скачать файл](https://github.com/MikhailErm/Practice_2025/tree/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0-%D1%81%D0%B0%D0%B9%D1%82%D0%B0/site/content/OTCHET_VARIATIVNOE_ZADANIYE.docx)
+## Ссылка на просмотр основного файла
+[Просмотр файла](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FMikhailErm%2FPractice_2025%2Frefs%2Fheads%2F%25D0%25BE%25D1%2581%25D0%25BD%25D0%25BE%25D0%25B2%25D0%25B0-%25D1%2581%25D0%25B0%25D0%25B9%25D1%2582%25D0%25B0%2Fsite%2Fcontent%2FOTCHET_VARIATIVNOE_ZADANIYE.docx&wdOrigin=BROWSELINK)
 
 #### Результаты выполнения задания по анализу методик тестирования защищенности веб-приложений  
 
