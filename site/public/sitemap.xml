@@ -2,11 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/journal/post_pyaty/</loc>
+    <lastmod>2025-05-14T13:00:39+03:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2025-04-14T00:04:07+03:00</lastmod>
+    <lastmod>2025-05-14T13:00:39+03:00</lastmod>
   </url><url>
     <loc>//localhost:1313/journal/</loc>
-    <lastmod>2025-04-14T00:04:07+03:00</lastmod>
+    <lastmod>2025-05-14T13:00:39+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/journal/post_chetverti/</loc>
+    <lastmod>2025-05-13T21:54:39+03:00</lastmod>
   </url><url>
     <loc>//localhost:1313/journal/post_tretiy/</loc>
     <lastmod>2025-04-14T00:04:07+03:00</lastmod>
@@ -17,10 +23,9 @@
     <loc>//localhost:1313/journal/post_perviy/</loc>
     <lastmod>2025-04-13T23:58:39+03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2025-04-13T17:06:32+03:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
   </url><url>
